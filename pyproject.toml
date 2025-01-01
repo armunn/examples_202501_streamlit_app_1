@@ -1,0 +1,18 @@
+[project]
+name = "examples_streamlit_app_1"
+version = "1.0.0"
+authors = [
+  { name="Alex Munn", email="alex@refinedperception.com" }
+]
+description = "An example app for combining authentication and pages within streamlit for a fast PoC"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+dependencies = [
+    "streamlit~=1.41.1",
+    "streamlit-authenticator~=0.4.1"
+]

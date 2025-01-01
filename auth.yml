@@ -1,0 +1,15 @@
+cookie:
+  expiry_days: 30
+  key: Uz94aMXFayr0ekpFHBnA
+  name: examples_streamlit_app_1
+credentials:
+  usernames:
+    example@example.com:
+      email: example@example.com
+      failed_login_attempts: 0
+      first_name: Example
+      last_name: Example
+      logged_in: false
+      password: $2b$12$fCFktSkeCLdoIRtyZH.PdOk2lnoyJ8TAbggd87q5nmjEwi/e.KjHi
+      password_hint: Usual
+      roles: null
